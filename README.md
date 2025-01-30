@@ -14,10 +14,6 @@ This Editor was developed using Flutter and is mainly targeted for mobile device
 
 Please star⭐ the repo if you like what you see😊.
 
-## 💻 Installation links
-
-[<img alt='Get it on Google Play' src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="250">](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
 
 
 ## ✨ Features
@@ -35,9 +31,6 @@ Please star⭐ the repo if you like what you see😊.
 - [x] Create new .md files
 - [x] Edit existing .md files
 
-## 📸 Screenshots
-
-<img alt="Light Mode Image" src="screenshots/screenshot_1.png" height="587px" width="256px"/> <img alt="Dark Mode Image" src="screenshots/screenshot_2.png" height="587px" width="256px"/> <img alt="File Explorer Image" src="screenshots/screenshot_3.png" height="587px" width="256px"/> <img alt="Add Link Image" src="screenshots/screenshot_4.png" height="587px" width="256px"/> <img alt="Markdown Preview Image" src="screenshots/screenshot_5.png" height="587px" width="256px"/> <img alt="Markdown Editor Image" src="screenshots/screenshot_6.png" height="587px" width="256px"/>
 
 ## 🔌 Plugins
 
