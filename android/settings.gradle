@@ -26,4 +26,5 @@ plugins {
     id "com.android.application" version "8.2.1" apply false
 }
 
-include ":app"
+include ':app', ':lib'
+
